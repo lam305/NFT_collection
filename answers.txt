@@ -1,0 +1,42 @@
+1. Sau khi chạy lệnh npm run generate lần đầu, trong thư mục build có bao nhiều file ảnh và bao nhiều file json?
+
+>>> Trả lời:
+-  
+
+
+2. Sau khi điều chỉnh file cấu hình và chạy lại lệnh, trong thư mục build có bao nhiêu file ảnh và bao nhiêu file json?
+
+>>> Trả lời:
+-  
+
+
+3. Sau khi upload thư mục build/images lên Pinata, thư mục mới có CID là gì, và đường dẫn baseURI của nó là gì?
+
+>>> Trả lời:
+-
+
+
+4. Sau khi chạy lệnh npm run generate_metadata, kiểm tra file _metadata.json trong thư mục build, dữ liệu là một mảng (array) có bao nhiêu phần tử? Đường dẫn ảnh của phần tử đầu tiên là gì?
+
+>>> Trả lời:
+-
+
+
+5. Sau khi upload thư mục build/json lên Pinata, thư mục mới có CID là gì, và tên của thư mục là gì?
+
+>>> Trả lời:
+-
+
+
+
+6. Sau khi deploy thành công hợp đồng thông minh, đường dẫn trên OpenSea đến collection của bạn là gì?
+
+>>> Trả lời:
+-
+
+
+NÂNG CAO:
+
+7. Đường dẫn đến NFT mà bạn chuyển cho tài khoản chỉ định trong bài là gì?
+>>> Trả lời:
+-
